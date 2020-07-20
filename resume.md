@@ -1,52 +1,52 @@
 ---
-title: "C'thulhu Resume"
+title: "Emily Resume"
 layout: resume
 ---
 
-# C'thulhu
+# **Emily Howell**
 
-> I am an outgoing and energetic (ask anybody) young professional, seeking a career that fits my professional skills, personality, and murderous tendencies. My squid-like head is a masterful problem solver and inspires fear in who gaze upon it. I can bring world domination to your organization.
+>I am a third year Computer Science major interested in low-level and back-end projects. I also have experience in higher-level, object-oriented languages. My current interests include computer security and architecture, but I want to explore other fields as well. In group projects, I work well in both leadership and member roles.
 
 ## Education
+### **Case Western Reserve University** Cleveland OH
+**Major:** Computer Science and Computer Engineering \
+**Minor:** Cognitive Science and Mathmatics
 
-### **Withering Madness University** Planet Vhoorl
-
-**Major:** Public Relations
-
-**Minor:** Scale Tending
+### Oregon Episcopal School
 
 ## Skills
+### Programming
+C • Linux • Java • Python • MIPS • bash • PHP • JMathematica • HTML • C# • Verilog • 3D printing
 
-### **Office skills**
-
-Office and records management, database administration, event organization, customer support, travel coordination
-
-### **Computer skills**
-
-Microsoft productivity software (Word, Excel, etc), Adobe Creative Suite, Windows
+### Other
+Excel • English • French
 
 ## Experience
+### **Summer Scholars Program** - Lawerence Livermore National Lab
+<span> Summer 2019 | Summer 2020 </span> 
 
-### **Leader & Overlord** Doomsday Cult, Baton Rogue, LA <span>1926&ndash;Present</span>
+Developed a kernel module that allows whitelisted and batchable access to Peripheral Component Interconnect (PCI) registers by the everyday, non-sudo user. This was an expansion of what was previously known as MSR-Safe.
 
-- Inspired and won highest peasant death competition among servants
-- Helped coordinate managers to grow cult following
-- Provided untimely deaths to all who opposed
+- Gained experience with Intel’s performance monitoring options from PCIs to MSRs and how to access them in multiple ways through the linux command line, pre-built libraries, and by creating a kernel module.
+- Gained experience building device drivers that allowed communication between kernel and user space.
+- Collaborated with other interns on developing the kernel module (Chip-Safe).
+- Improved upon batching speed of MSR-Safe by 1.4 times.
 
-### **Bartender/Server** The Watering Hole, Milwaukee, WI <span>2009</span>
+### **Teaching Assistant** - Intro to Java
+<span> Fall 2019 | Spring 2020 </span>
+- Taught lab sections, graded assignments, and held office hours in order to facilitate student learning.
+- Gained deeper understanding of how to write better code through revisiting the basics and how to help others learn.
 
-- Worked on grass-roots promotional campaigns
-- Reduced theft and property damage percentages
-- Janitorial work, Laundry
 
-## Hobbies
+## Activites/ Leadership Roles
+### Women in Tech Initiative
 
-World Domination, Deep Sea Diving, Murder Most Foul
+### Tri Sigma Sorority - Chapter President
+- Learned leadership skills for small (8 people) medium (25 people) and large (80 people) group dynamics
+- Conflic resolution
 
-## References
-
-Available on request
-
-## Links
-
-<a href="https://github.com/gonsie/Cthulu-Resume"><span class="octicon octicon-mark-github" style="position: relative; color: black; margin: 3px;"></span>Find This on GitHub</a>
+### **Order of Omega** - Pytte Cup Coordinator
+- Leadership Honorary for Greek Life
+- Developed and faciitated the chapter development program known as Pytte Cup
+- Increased number of chapters participating in the Pytte Cup program
+- Made chapter development more approachable
